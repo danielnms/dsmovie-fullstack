@@ -18,11 +18,11 @@ public class Score {
 	
 	// Métodos de associação com chave primária
 	public void setMovie(Movie movie) {
-		this.setMovie(movie);
+		id.setMovie(movie);
 	}
 	
 	public void setUser(User user) {
-		this.setUser(user);
+		id.setUser(user);
 	}
 
 	// Getters e Setters
